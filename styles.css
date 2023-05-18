@@ -1,0 +1,38 @@
+h1 { color: blue;
+    font-family: "Helvetica Neue", sans-serif;
+    border-bottom: 11px solid #333333;
+}
+h3{
+    color: green;
+}
+h4{ color: #b2eccf;
+} 
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    }
+    
+    a {
+    color: #FF5733;
+    text-decoration: none;
+    }
+    li:first-child {
+        list-style-type: none;
+        margin-top: 20px;
+      }
+      
+      body {
+        background-color: rgb(201, 187, 187);
+      }
+      p {
+        font-family: "Georgia", serif;
+        color: #333333;
+        font-style: italic;
+      }
